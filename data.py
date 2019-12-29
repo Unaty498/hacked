@@ -230,6 +230,7 @@ Your challenge is to count down from `input` to 0, and add up all the numbers al
     ],
     10: [
         "While loops"
+    ],
     11: [
         "Conditions : if and else",
         """
@@ -253,4 +254,6 @@ if (a == 1) {
     say("a is not 1");
 }
 ```
+"""
+    ]
 }
