@@ -228,4 +228,29 @@ Your challenge is to count down from `input` to 0, and add up all the numbers al
         """,
         [[3, 6], [10, 55], [7, 28], [9, 45]],
     ],
+    10: [
+        "While loops"
+    11: [
+        "Conditions : if and else",
+        """
+Now we'll see the conditions with `if` and `else`.
+These statements are used to perform different actions based on different conditions.
+
+Syntax : 
+```js
+if (condition) {
+    //block of code that will be executed if the condition is true
+} else {
+    //block of code that will be executed if the condition is false
+}
+```
+Note : `else` is optional
+Example (very plain) : 
+```js
+if (a == 1) {
+    say("a is 1");
+} else {
+    say("a is not 1");
+}
+```
 }
